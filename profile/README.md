@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mystri-app/.github/main/profile/assets/mystri-logo.png" alt="MYSTRI" width="360">
+  <img src="https://raw.githubusercontent.com/mystri-app/.github/main/profile/assets/Mystri_Logo_Tagline.png" alt="MYSTRI" width="360">
 </p><p align="center">
   <strong>Mobile Partyspiele für echte Gruppen.</strong><br>
   Geheime Rollen, Wortduelle, Sprachchaos und Community Packs.
