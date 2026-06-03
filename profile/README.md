@@ -48,12 +48,16 @@ The private app, backend, and release development remains separate.
 
 ### [`packs`](https://github.com/mystri-app/packs)
 
-**Zweck:** Templates, Beispiele und später kuratierte Community Packs.  
-**Purpose:** Templates, examples, and future curated community packs.
+**Zweck:** Vorlagen, Beispiele und später kuratierte Community Packs.  
+**Purpose:** Templates, examples, and planned curated community packs.
 
 Hier entstehen später Vorlagen und Beispiel-Packs für Geheime Rollen, Wortduelle, Sprachchaos und Community Packs.
 
+Diskussionen, Feedback und Ideen sollen später über Discord laufen. Dieses Repository ist für strukturierte Pack-Dateien, Beispiele und Pull Requests gedacht.
+
 English: This repository will contain templates and example packs for Hidden Roles, Word Duels, Speech Chaos, and Community Packs.
+
+Discussions, feedback, and ideas will later happen on Discord. This repository is meant for structured pack files, examples, and pull requests.
 
 ---
 
