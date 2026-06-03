@@ -42,11 +42,27 @@ The private app, backend, and release development remains separate.
 
 ---
 
-Repositories
+## Repositories
 
-Repository| Zweck| Purpose
-""packs"" (https://github.com/mystri-app/packs)| Templates, Beispiele und später kuratierte Community Packs| Templates, examples, and future curated community packs
-""pack-schema"" (https://github.com/mystri-app/pack-schema)| Offizielle Pack-Spezifikation und JSON Schemas| Official pack specification and JSON schemas
+### [`packs`](https://github.com/mystri-app/packs)
+
+**Zweck:** Templates, Beispiele und später kuratierte Community Packs.  
+**Purpose:** Templates, examples, and future curated community packs.
+
+Hier entstehen später Vorlagen und Beispiel-Packs für Geheime Rollen, Wortduelle, Sprachchaos und Community Packs.
+
+English: This repository will contain templates and example packs for Hidden Roles, Word Duels, Speech Chaos, and Community Packs.
+
+---
+
+### [`pack-schema`](https://github.com/mystri-app/pack-schema)
+
+**Zweck:** Offizielle Pack-Spezifikation und JSON Schemas.  
+**Purpose:** Official pack specification and JSON schemas.
+
+Hier wird beschrieben, wie MYSTRI Packs aufgebaut, versioniert und validiert werden.
+
+English: This repository describes how MYSTRI Packs are structured, versioned, and validated.
 
 ---
 
