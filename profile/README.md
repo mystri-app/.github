@@ -4,9 +4,11 @@
   <strong>Mobile Partyspiele für echte Gruppen.</strong><br>
   Geheime Rollen, Wortduelle, Sprachchaos und Community Packs.
 </p><p align="center">
-  <em>Mobile party games for real groups.</em><br>
-  Hidden roles, word duels, speech chaos, and community packs.
-</p>---
+  <strong><em>Mobile party games for real groups.</em></strong><br>
+  <em>Hidden roles, word duels, speech chaos, and community packs.</em>
+</p>
+
+---
 
 Willkommen bei MYSTRI
 
